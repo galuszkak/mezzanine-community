@@ -1,0 +1,4 @@
+include LICENSE
+include README.md
+recursive-include community/static *
+recursive-include community/templates *

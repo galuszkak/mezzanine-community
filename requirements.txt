@@ -1,0 +1,10 @@
+Mezzanine==1.4.16
+
+#Facebook
+https://github.com/PySilesia/mc-facebook.git
+#Linkedin
+https://github.com/PySilesia/mc-linkedin.git
+#Twitter
+https://github.com/PySilesia/mc-twitter.git
+#G+
+https://github.com/PySilesia/mc-gplus.git
